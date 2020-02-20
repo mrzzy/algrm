@@ -4,8 +4,9 @@ implemented in golang/c++/python
 
 ## Contents
 Data Structures:
+
 | Data Structure | Language |  Description | 
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [Vector](./structs/vector/cpp/) | C++ | Generic Resizable array with O(1) random access |
 | [List](./structs/list/cpp/) | C++ | Doubly linked list data structure O(1) |
 | [Heap](./structs/heap/cpp/) | C++ | Generic Heap provides O(1) lookup of max item |
@@ -15,6 +16,7 @@ Data Structures:
 | [AVL Tree](./structs/avl/go/) | Go | Self Balancing Binary Search Tree |
 
 Algorithms:
+
 | Algorithms | Language | Description |
 | --- | --- | --- |
 | [Dijkstra](./algos/dijkstra/cpp/) | C++ | Shortest path through weighted graph |
